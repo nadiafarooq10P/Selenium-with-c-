@@ -10,7 +10,7 @@ namespace SeleniumBatch3
     public class UnitTest1
     {
         [TestMethod]
-        public void Assignment2()
+        public void LoginValidation()
         {
             IWebDriver driver = new ChromeDriver();
             driver.Manage().Window.Maximize();

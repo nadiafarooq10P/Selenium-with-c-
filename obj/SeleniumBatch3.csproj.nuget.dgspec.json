@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadia.farooq\\Source\\Repos\\Selenium-with-c-\\SeleniumBatch3.csproj": {}
+    "C:\\Users\\nadia.farooq\\source\\repos\\SeleniumC# Training\\Selenium-with-c-\\SeleniumBatch3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadia.farooq\\Source\\Repos\\Selenium-with-c-\\SeleniumBatch3.csproj": {
+    "C:\\Users\\nadia.farooq\\source\\repos\\SeleniumC# Training\\Selenium-with-c-\\SeleniumBatch3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadia.farooq\\Source\\Repos\\Selenium-with-c-\\SeleniumBatch3.csproj",
+        "projectUniqueName": "C:\\Users\\nadia.farooq\\source\\repos\\SeleniumC# Training\\Selenium-with-c-\\SeleniumBatch3.csproj",
         "projectName": "SeleniumBatch3",
-        "projectPath": "C:\\Users\\nadia.farooq\\Source\\Repos\\Selenium-with-c-\\SeleniumBatch3.csproj",
+        "projectPath": "C:\\Users\\nadia.farooq\\source\\repos\\SeleniumC# Training\\Selenium-with-c-\\SeleniumBatch3.csproj",
         "packagesPath": "C:\\Users\\nadia.farooq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadia.farooq\\Source\\Repos\\Selenium-with-c-\\obj\\",
+        "outputPath": "C:\\Users\\nadia.farooq\\source\\repos\\SeleniumC# Training\\Selenium-with-c-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
